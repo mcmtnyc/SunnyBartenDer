@@ -31,7 +31,8 @@ export const getSunlightByCity = async (req, res) => {
       City: req.params.cityName
     }).exec();
     if (sunlight) {
-      return res.json(sunlight["Year"])
+      // return res.json(sunlight["Year"])
+      return res.json(sunlight)
     }
     res.status(400).json({ message: "User not found!" })
 
