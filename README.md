@@ -1,7 +1,7 @@
 # SunnyBartenDer
 This is a api offering three models which are sunlight, user and book. you can do CRUD operations following the route below.
 
-# ***sunlights
+# ***sunlight model
 Get method:
 /team     
 This is the root route
@@ -12,7 +12,7 @@ Get the sunlight by id
 /team/sunlights/city/cityname     
 Return the city year hours by city name
 
-# ***user
+# ***user model
 Get method:
 /team/users    
 Return all the user object
@@ -30,7 +30,7 @@ Delete method:
 /team/users/id    
 Delete  the spicific  user by id
 
-# **book
+# **book model
 Get method
 /team/books   
 Return all books
