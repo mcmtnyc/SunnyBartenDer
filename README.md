@@ -14,6 +14,7 @@ Return the city year hours by city name
 
 # ***user model
 Get method:
+
 /team/users    
 Return all the user object
 /team/users/id    
