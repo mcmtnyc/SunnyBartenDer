@@ -3,15 +3,15 @@ This is a api offering three models which are sunlight, user and book. you can d
 ### **Heroku Link**: https://github.com/johndreamfuture/SunnyBartenDer
 
 # sunlight model
- |sunlight|end-point|description             |
+ |methods|end-point|description             |
  |--------|-----------|------------------------|
  |        |/team      |This is the root route. |
  |Get method|/team/sunlights |Return all the sunlights object|
  |      |/team/sunlights/id |    Get the sunlight by id|
- |        |/team/sunlights/city/cityname |  Return the sunlight by city name|
+ |      |/team/sunlights/city/cityname |  Return the sunlight by city name|
 
 # user model
-|user |end-point|description|
+|methods |end-point|description|
 |-----|----------|-----------|
 |     |/team/users|Return all the user object|
 |Get method|/team/users/id|Return the spicific  user by id|
@@ -21,7 +21,7 @@ This is a api offering three models which are sunlight, user and book. you can d
 |Delete method|/team/users/id |Delete  the spicific  user by id|
 
 # book model
-|book|end-point|description|
+|methods|end-point|description|
 |----|---------|-----------|
 |Get method|/team/books|Return all books|
 |Get method|/team/books/id|Return the spicific  book by id|
