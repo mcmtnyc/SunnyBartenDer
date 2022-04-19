@@ -5,19 +5,15 @@ This is a api offering three models which are sunlight, user and book. you can d
 
 # ***sunlight model
  
- Get method:
-
-/team     
+ |sunlight|Get method:|description             |
+ |        |/team      |This is the root route. |
 This is the root route
 
-/team/sunlights 
-Return all the sunlights object
+| |/team/sunlights |Return all the sunlights object|
 
-/team/sunlights/id     
-Get the sunlight by id
+||/team/sunlights/id |    Get the sunlight by id|
 
-/team/sunlights/city/cityname     
-Return the city year hours by city name
+||/team/sunlights/city/cityname |  Return the sunlight by city name|
 
 # ***user model
 
