@@ -1,6 +1,39 @@
 # SunnyBartenDer
 This is a api offering three models which are sunlight, user and book. you can do CRUD operations following the route below.
-### **Heroku Link**: https://github.com/johndreamfuture/SunnyBartenDer
+### **Github Link**: https://github.com/johndreamfuture/SunnyBartenDer
+### **Heroku Link: https://sunnybartender.herokuapp.com/team/
+
+## Instructions for local database manipulation:
+
+1) Clone down this repo,
+2) Install dependencies,
+3) Seed the database,
+4) Start server link,
+5) Search the API info through a browser for the seeded information, 
+6) Manipulate the information through apps like Postman.
+
+### Clone repository
+
+```
+git clone https://github.com/johndreamfuture/SunnyBartenDer
+```
+
+### Install Dependencies
+
+```
+npm install 
+```
+
+### Seed the data
+
+```
+npm run db:seed
+```
+
+### Connect to server
+```
+npm run start
+````
 
 # sunlight model
  |methods|end-point|description             |
