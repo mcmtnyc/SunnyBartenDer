@@ -1,6 +1,7 @@
 # SunnyBartenDer
 This is a api offering three models which are sunlight, user and book. you can do CRUD operations following the route below.
-data link: https://sunlightbycities-api.herokuapp.com/sunlight
+sunlight data link: https://sunlightbycities-api.herokuapp.com/sunlight
+book data link: https://myfavaritebook.herokuapp.com/books 
 ### **Github Link**: https://github.com/johndreamfuture/SunnyBartenDer
 ### **Heroku Link**: https://sunnybartender.herokuapp.com/team/
 
